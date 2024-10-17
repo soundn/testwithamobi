@@ -1,1 +1,3 @@
-this is a test repository, whith examples of how a git repo works 
+# this is a test repository, whith examples of how a git repo works 
+##still testing 
+
